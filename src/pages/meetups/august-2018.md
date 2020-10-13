@@ -3,8 +3,14 @@ templateKey: meetup
 title: August 2018
 date: 2018-08-14T23:00:00.000Z
 presenters:
-  - image: /img/ramy-kabalan-796973-unsplash.jpg
-    name: Fred Champ
+  - image: /img/career_grants.jpg
+    links:
+      - linkText: My LinkedIn
+        linkURL: >-
+          https://www.linkedin.com/in/jack-blockchain-search-engine-optimization-gilcrest/
+      - linkText: ' My Twitter'
+        linkURL: 'https://twitter.com/jp4g_'
+    name: Jack Gilcrest
     presentationTitle: Network optimizations 101
     text: >+
       If you have an application that requires network requests to run, you
